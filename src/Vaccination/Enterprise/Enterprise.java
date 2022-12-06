@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Business.Enterprise;
+package Vaccination.Enterprise;
 
-import Business.Organization.Organization;
-import Business.Organization.OrganizationDirectory;
+import Vaccination.Organization.Organization;
+import Vaccination.Organization.OrganizationDirectory;
 
 /**
  *
- * @author deepa
+ * @author abhaydeshpande
  */
 public abstract class Enterprise extends Organization {
 
